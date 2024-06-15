@@ -1,0 +1,25 @@
+
+9
+	build.sbt,7\4\74b95601c3a6d9d565cd312fac64094ec0f9d847
+Z
+*src/main/scala/playground/Playground.scala,1\9\190ed1db368ba2764304a646f42ace10d7129a3c
+n
+>src/main/scala/lectures/part1basics/ValuesVariablesTypes.scala,f\f\ff2a7a2752312286485d89af982279241e3bb173
+e
+5src/main/scala/lectures/part1basics/Expressions.scala,d\a\dabea2384bf77c8239d628b961c0777ec8826c8a
+c
+3src/main/scala/lectures/part1basics/Functions.scala,2\7\275dcac5835979ea5431ec265ffa9638f9c12c26
+_
+/src/main/scala/exercises/GreetingFunction.scala,7\b\7bb235d940c8866d4b6866b26c5a204825f61428
+b
+2src/main/scala/exercises/FactorialCalculator.scala,1\f\1f5463aeade98e084a6d67e6b8d8d77046a52847
+`
+0src/main/scala/exercises/FibonacciFunction.scala,d\b\dbfd20c4a50a9e4327e2282dcc37a01803581f57
+a
+1src/main/scala/exercises/PrimerNumberTester.scala,c\6\c60ee05f4f1c12901f30810b205fd8667f94ca25
+a
+1src/main/scala/exercises/PrimeNumberChecker.scala,0\d\0dfe6b178bd736f10d7dd81d3fd926d78046c5aa
+\
+,src/main/scala/exercises/TailRecursive.scala,1\6\16f258e7ec7e5aefbc17a90f175e89bac751cb69
+p
+@src/main/scala/exercises/tailrecursive/TailRecursiveMethod.scala,0\7\0720c8329afd95289b2990c83d9e69ebef0e96e3

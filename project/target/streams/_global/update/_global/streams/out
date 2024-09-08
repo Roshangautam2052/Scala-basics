@@ -1,8 +1,3 @@
 [debug] not up to date. inChanged = true, force = false
-<<<<<<< HEAD
-[debug] Updating ProjectRef(uri("file:/C:/Users/rosha/Desktop/Scala-basics/project/"), "scala-basics-build")...
-[debug] Done updating ProjectRef(uri("file:/C:/Users/rosha/Desktop/Scala-basics/project/"), "scala-basics-build")
-=======
-[debug] Updating ProjectRef(uri("file:/Users/roshan.gautam/Desktop/Scala-RockJVM/Scala-basics/project/"), "scala-basics-build")...
-[debug] Done updating ProjectRef(uri("file:/Users/roshan.gautam/Desktop/Scala-RockJVM/Scala-basics/project/"), "scala-basics-build")
->>>>>>> a3741b324cdeefdf1e75dbb810abb58674138cda
+[debug] Updating ProjectRef(uri("file:/C:/Users/rosha/Desktop/RockTheJVM-Scala/Scala-basics/project/"), "scala-basics-build")...
+[debug] Done updating ProjectRef(uri("file:/C:/Users/rosha/Desktop/RockTheJVM-Scala/Scala-basics/project/"), "scala-basics-build")

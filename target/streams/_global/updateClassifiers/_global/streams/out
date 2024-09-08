@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 [warn] scala3-library_3-3.3.3-sources.jar no longer exists at C:\Users\Dell\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala3-library_3\3.3.3\scala3-library_3-3.3.3-sources.jar
 [debug] not up to date. inChanged = false, force = false
 [debug] Updating ProjectRef(uri("file:/C:/Users/rosha/Desktop/Scala-basics/"), "root")...
 [debug] Done updating ProjectRef(uri("file:/C:/Users/rosha/Desktop/Scala-basics/"), "root")
+=======
+[warn] scala3-library_3-3.3.3-sources.jar no longer exists at /C:/Users/Dell/AppData/Local/Coursier/Cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.3/scala3-library_3-3.3.3-sources.jar
+[debug] not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/Users/roshan.gautam/Desktop/Scala-RockJVM/Scala-basics/"), "root")...
+[debug] Done updating ProjectRef(uri("file:/Users/roshan.gautam/Desktop/Scala-RockJVM/Scala-basics/"), "root")
+>>>>>>> a3741b324cdeefdf1e75dbb810abb58674138cda

@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<module external.linked.project.id="root [file:/C:/Users/rosha/Desktop/Scala-basics/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_22">
+=======
 <module external.linked.project.id="root [file:/Users/roshan.gautam/Desktop/Scala-RockJVM/Scala-basics/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+>>>>>>> a3741b324cdeefdf1e75dbb810abb58674138cda
     <output url="file://$MODULE_DIR$/../../target/scala-3.3.3/classes" />
     <output-test url="file://$MODULE_DIR$/../../target/scala-3.3.3/test-classes" />
     <exclude-output />

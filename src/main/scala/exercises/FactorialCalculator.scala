@@ -9,7 +9,6 @@ object FactorialCalculator extends App{
     if (number <= 0) 1
     else number * calculateFactorial(number-1)
   }
-
   println(calculateFactorial(100))
 
 }

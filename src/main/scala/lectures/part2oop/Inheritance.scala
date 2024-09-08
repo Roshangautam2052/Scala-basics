@@ -1,6 +1,6 @@
 package lectures.part2oop
 
-object InheritanceAndTraits extends App{
+object Inheritance extends App{
 
   // single class inheritance
   // the other class only inherit from the sub class public and protected methods

@@ -22,7 +22,7 @@ object CaseClasses extends App {
   val jim3 = new Person("Jim", 34)
   println(jim2 == jim3)
   // 4. case classes have handy copy method
-  val jim6 = jim.copy(age = 45) // this creates a new instance of case class of samer parameter as Jim but with age of 45
+  val jim6 = jim.copy(age = 45) // this creates a new instance of case class of same parameter as Jim but with age of 45
   // Case class also have companion objects
   val thePerson = Person
   val mary = Person("Mary", 23) // this delegates to apply method and we don't use new keyword in case classes
